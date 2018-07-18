@@ -1,0 +1,1 @@
+package com.ns.common.util.constant;public interface HeadConstant {    interface ErrCode {        Integer SUCCESS = 0;    }}
